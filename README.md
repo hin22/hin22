@@ -15,12 +15,47 @@
 </p>
 </div>
 
+---
 
+## 🧑‍💻 About Me
 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblurfx&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" width="0" height="0" />
 
+```json
+
+{
+  "name": "hin22",
+  "position": [
+    "Embedded SW",
+    "FullStack"
+  ],
+  "education": "Gwangju National University of Health",
+  "major": "Early Childhood Education",
+  "hobbies": [
+    "Problem Solving (Baekjoon)",
+    "Competitive Programming (AtCoder)"
+  ],
+}
+```
+---
+ <div align="center">
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hin22)](https://github.com/hin22/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hin22&layout=compact)](https://github.com/hin22/github-readme-stats)
+</div>
+
+## 📫 How to reach me
+<!-- 소셜 배지 -->
+<p align="center">
+  <a href="https://github.com/<GitHub ID>"><img src="https://img.shields.io/github/followers/<Github ID>?label=Follow&style=social"></a>
+  <a href="https://blog.naver.com/ID"><img src="https://img.shields.io/badge/Blog-20C997?logo=naver&logoColor=white"></a>
+</p>
+
+
+---
+
+<p align="center">
+  Thanks for visiting! ⭐️
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
@@ -29,19 +64,4 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-## Hi there 👋
-
-<!--
-**hin22/hin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
