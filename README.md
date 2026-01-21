@@ -1,4 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+<!-- 프로필 헤더 -->
+
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20hin22&fontSize=90)
+
+# 👋 Hi there, I’m **hin22**  
+여러 문제들을 해결하고자 공부하고 또 준비하고 있는 예비개발자 입니다.
+
+<!-- 소셜 배지 -->
+<p align="center">
+  <a href="https://github.com/<hincake22>"><img src="https://img.shields.io/github/followers/<hincake22>?label=Follow&style=social"></a>
+  <a href="https://blog.naver.com/hincake22"><img src="https://img.shields.io/badge/Blog-20C997?logo=naver&logoColor=white"></a>
+  <a href="mailto:her44g@naver.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</p>
+</div>
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hin22)](https://github.com/hin22/github-readme-stats)
 
