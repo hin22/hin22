@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20Hello World&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20HelloWorld&fontSize=90)
 
 # 👋 Hi there, I’m **hin22**  
 ### 🇰🇷 South Korea ➡️ 🇯🇵 Future IT Engineer in Japan
