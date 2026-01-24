@@ -15,7 +15,7 @@
   <a href="https://velog.io/@hincake22/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white">
   </a>
-  <a href="https://blog.naver.com/hincake22">
+  <a href="https://blog.naver.com/hincake">
     <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=white">
   </a>
   <a href="mailto:her44g@naver.com">
